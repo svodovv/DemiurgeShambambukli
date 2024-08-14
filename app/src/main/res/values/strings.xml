@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemiurgeShambambukli</string>
+    <string name="cellular_filling">Клеточное наполнение</string>
+    <string name="ceat_cellular">СОТВОРИТЬ</string>
+    <string name="dead">Dead</string>
+    <string name="alive">alive</string>
+    <string name="life">life</string>
+    <string name="death">death</string>
+</resources>
